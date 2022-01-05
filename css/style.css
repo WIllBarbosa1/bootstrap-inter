@@ -1,0 +1,61 @@
+body{
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #3C096C;
+}
+
+.text-color{
+    color: #ff9100;
+}
+
+.icon-home{
+    display: inline-block;
+    border: 3px #FF9E00  solid;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100pt;
+    height: 100pt;
+}
+
+.image-rounded{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300pt;
+    height: 300pt; 
+}
+
+.quem-somos{
+    background-color: #848C8E;
+    color: #FFF;
+}
+
+.margin{
+    padding:  50pt;
+}
+
+.baixo{
+    padding-bottom: 20pt;
+}
+
+.galeria{
+    background-color: #FCFF4B;
+}
+
+.servicos{
+    background-color: #FFFBDB;
+}
+
+.details{
+    text-align: justify;
+    margin-top: 20pt;
+}
+
+.bg-footer{
+    background-color: #000;
+    color: #FFF;
+    padding: 12pt;
+}
